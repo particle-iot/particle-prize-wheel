@@ -23,6 +23,12 @@ code (firmware)
 build (firmware build directory)
 ```
 
+### Compile prerequisites
+
+- Install [Particle CLI](https://docs.particle.io/getting-started/developer-tools/cli/)
+- Login to the CLI with your Particle account `particle login`
+- Install [Device OS Flash Util](https://github.com/particle-iot/device-os-flash-util)
+
 ### Compiling
 
 To build the prize wheel firmware, connect a Monitor One over USB and run:
